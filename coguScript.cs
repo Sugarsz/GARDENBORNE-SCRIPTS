@@ -101,6 +101,6 @@ public class coguScript : MonoBehaviour
         yield return new WaitForSeconds (3f);
         canAttack = true;
         
-        //this code is trash never do this again
+        //this code is trash dont ever do this again
     }
 }
