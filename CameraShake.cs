@@ -4,6 +4,7 @@ using System.Collections;
 
 public class CameraShake : MonoBehaviour
 {
+	//Simple CameraShake script made by anothe dude
 	// Transform of the camera to shake. Grabs the gameObject's transform
 	// if null.
 	public Transform camTransform;
