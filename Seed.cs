@@ -44,6 +44,7 @@ public class Seed : MonoBehaviour
                 uiScripts.PlayAnimation(3);
 
             }
+            //this should ve been a switch stametent if I knew how at the time
             uiScripts.UpdateText();
             Destroy(gameObject);
         }
